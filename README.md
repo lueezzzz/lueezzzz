@@ -1,4 +1,5 @@
-### Hi there 👋
+
+ <p align="center> Hi there 👋 </p>
 
 <!--
 **2leizy/2leizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
