@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Haloo, 👋 I'm Rian 
 
 <!--
 **2leizy/2leizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
