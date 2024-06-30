@@ -1,6 +1,6 @@
 <h1 align="center">
   Haloo, 👋 I'm Rian 
-  <p> 🌱 I’m currently learning front-end frameworks </p>
+  <p style='font-width: 20px';>  I’m currently learning front-end frameworks </p>
 </h1>
 
 <!--
