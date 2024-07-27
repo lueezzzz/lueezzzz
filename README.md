@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello 👋 I'm Rian <p style='font-weight: 20px';> and is currently learning front-end frameworks </p>
+  Hello 👋 I'm Rian 
 </h1>
 
 <!--
