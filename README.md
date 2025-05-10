@@ -2,7 +2,7 @@
 
 
 
-### Socials 🌐
+### 🌐 Socials 
 
 <a href="https://www.linkedin.com/in/rian-luis-mabait-a1044626b" target="_blank" rel="noreferrer">
 <picture>
