@@ -6,13 +6,12 @@
 **Experience**
 <table>
   <tr>
-    <td align="center" width="80" valign="top"><b>FF</b></td>
     <td>
       <b>Flore de Fuzz</b><br>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">┃</td>
+    <td align="center" valign="top"></td>
     <td>
       <b>Fullstack Developer</b><br>
       <small>November 2025 - March 2026</small><br><br>
