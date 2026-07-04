@@ -27,5 +27,4 @@ Full Stack Developer, focused on building scalable web and mobile applications u
 </p>
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-mabait-a1044626b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-mabait-a1044626b) 
