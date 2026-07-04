@@ -8,6 +8,7 @@
     </td>
   </tr>
   <tr>
+    <td align="center" valign="top">┃</td>
     <td>
       <b>Fullstack Developer</b><br>
       <small>NOVEMBER 2025 - MARCH 2026</small><br><br>
@@ -25,6 +26,7 @@
     </td>
   </tr>
   <tr>
+    <td align="center" valign="top">┃</td>
     <td>
       <b>Mobile Developer Intern</b><br>
       <small>JUNE 2025 - JULY 2025</small><br><br>
@@ -44,6 +46,7 @@
     </td>
   </tr>
   <tr>
+    <td align="center" valign="top">┃</td>
     <td>
       <b>Frontend Developer</b><br>
       <small>JULY 2023 - SEPTEMBER 2024</small><br><br>
