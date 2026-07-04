@@ -1,11 +1,10 @@
 <h3 align="left">Rian Luis Mabait</h3>
 
 
-
-
 **Experience**
 <table>
   <tr>
+    <td align="center" width="80" valign="top"><b>FF</b></td>
     <td>
       <b>Flore de Fuzz</b><br>
     </td>
