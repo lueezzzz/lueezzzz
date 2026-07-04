@@ -3,7 +3,7 @@
 Full Stack Developer, focused on building scalable web and mobile applications using React, Next.js, TypeScript, Flutter. Experienced in owning product delivery from development to deployment. A thinker who builds with purpose, passion, and curiosity.
 
 
-<h3 align="left">Tech Stac</h3>
+---
 
 <p align="left">
 <a href="https://skillicons.dev">
