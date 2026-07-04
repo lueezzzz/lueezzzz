@@ -25,3 +25,7 @@ Full Stack Developer, focused on building scalable web and mobile applications u
 <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </a>
 </p>
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-mabait-a1044626b/)
