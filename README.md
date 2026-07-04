@@ -1,52 +1,9 @@
 <h3 align="left">Rian Luis Mabait</h3>
 
+Full Stack Developer, focused on building scalable web and mobile applications using React, Next.js, TypeScript, Flutter. Experienced in owning product delivery from development to deployment. A thinker who builds with purpose, passion, and curiosity.
 
-**Experience**
-<table>
-  <tr>
-    <td align="center" width="80" valign="top"><b>FF</b></td>
-    <td>
-      <b>Flore de Fuzz</b><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"></td>
-    <td>
-      <b>Fullstack Developer</b><br>
-      <small>November 2025 - March 2026</small><br><br>
-      <code>Next.js</code> <code>TailwindCSS</code> <code>Supabase</code> <code>Google Apps Script</code> <code>Make.com</code> <code>Git</code><br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><b>IR</b></td>
-    <td>
-      <b>I AM Ready Review</b><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"></td>
-    <td>
-      <b>Mobile Developer Intern</b><br>
-      <small>JUNE 2025 - JULY 2025</small><br><br>
-      <code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Git</code><br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><b>UP</b></td>
-    <td>
-      <b>UPV DPSM</b><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"></td>
-    <td>
-      <b>Frontend Developer</b><br>
-      <small>JULY 2023 - SEPTEMBER 2024</small><br><br>
-      <code>HTML</code> <code>SCSS</code> <code>CSS</code> <code>BootStrap5</code> <code>JavaScript</code> <code>Git</code>
-    </td>
-  </tr>
-</table>
 
+<h3 align="left">Tech Stac</h3>
 
 <p align="left">
 <a href="https://skillicons.dev">
